@@ -2,6 +2,8 @@
 
 Dieses Projekt ist im 3. Bachelorsemester im Modul "Graphische Datenverarbeitung" entstanden. Ziel war es, mit OpenGL eine eigene kleine 3D-Szene zu bauen, durch die man sich frei bewegen kann. Es war gleichzeitig mein allererstes Coding-Projekt überhaupt. Man könnte daran also auf jeden Fall noch einiges optimieren, aber für ein erstes Projekt bin ich ziemlich stolz darauf. 
 
+![Gameplay](gameplay.gif)
+
 ## Das Spiel
 
 Man startet in einem dunklen Labyrinth und muss den Schlüssel finden, um durch die Tür am anderen Ende zu entkommen. Unterwegs begegnet man einem Totenkopf, Frankenstein, einer Spinne, einem Geist und einem riesigen Auge. Frankenstein und die Spinne versperren den Weg und müssen übersprungen werden. Der Geist verfolgt einen in seinem Gang, und wer vom Geist oder vom Auge erwischt wird, landet wieder am Start. Die Taschenlampe leuchtet immer dorthin, wo man gerade hinschaut.
